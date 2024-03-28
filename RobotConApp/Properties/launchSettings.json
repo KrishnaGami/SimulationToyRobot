@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RobotConApp": {
+      "commandName": "Project",
+      "commandLineArgs": "commands.txt"
+    }
+  }
+}
