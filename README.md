@@ -57,17 +57,3 @@ LEFT
 REPORT
 Output: 0,0,WEST
 ```
-## Guidelines for candidate
-
-- Application of OOP techniques including use of applicable Design patterns
-- Abstractions to create a decoupled yet cohesive solution
-- SOLID principles as a guideline
-
-## Deliverables
-
-Please provide the following in your response:
-
-- Github repo containing the code to the solution
-- Instructions on how to run the project
-- All relevant tests
-- Please aim to spend between 2-3 hours on this task.
